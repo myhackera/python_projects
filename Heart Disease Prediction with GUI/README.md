@@ -1,5 +1,5 @@
 
-Heart Disease Prediction using Machine Learning 
+<h4>Heart Disease Prediction using Machine Learning</h4> 
 
 According to the World Health Organization, every year 12 million deaths
 occur worldwide due to Heart Disease. Heart disease is one of the biggest causes of
