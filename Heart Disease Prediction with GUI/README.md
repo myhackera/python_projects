@@ -1,6 +1,6 @@
 
-<h4>Heart Disease Prediction using Machine Learning</h4> 
-
+<h2>Heart Disease Prediction using Machine Learning</h2> 
+<h3> Introduction </h3>
 According to the World Health Organization, every year 12 million deaths
 occur worldwide due to Heart Disease. Heart disease is one of the biggest causes of
 morbidity and mortality among the population of the world. Prediction of
@@ -19,3 +19,9 @@ project aims to predict future Heart Disease by analyzing data of patients which
 classifies whether they have heart disease or not using machine-learning algorithm.
 
 I've used a variety of Machine Learning algorithms, implemented in Python, to predict the presence of heart disease in a patient. This is a classification problem, with input features as a variety of parameters, and the target variable as a binary variable, predicting whether heart disease is present or not.
+
+<h2> Tools and technologies </h2>
+<ul>
+  <li>Python</li>
+  <li> Machine Learning Algorithms </li>
+ </ul>
