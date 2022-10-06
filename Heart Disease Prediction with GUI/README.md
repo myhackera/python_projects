@@ -22,6 +22,23 @@ I've used a variety of Machine Learning algorithms, implemented in Python, to pr
 
 <h2> Tools and technologies </h2>
 <ul>
-  <li>Python</li>
-  <li> Machine Learning Algorithms </li>
+  <li>Python
+  <ul> 
+    <li>Pandas</li>
+    <li>Matplotlib</li>
+    <li>Tkinter</li>
+    <li>Seaborn</li>
+    <li>Numpy</li>
+   </ul>
+  </li>
+  <li> Machine Learning Algorithms
+    <ul>
+      <li>Logistic Regression</li>
+      <li>SVM</li>
+      <li>KNN</li>
+      <li>Bayes Classifier</li>
+      <li>Decision Tree</li>
+      <li>Random Forest</li>
+    </ul>
+  </li>
  </ul>
