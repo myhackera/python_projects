@@ -21,7 +21,9 @@ classifies whether they have heart disease or not using machine-learning algorit
 
 I've used a variety of Machine Learning algorithms, implemented in Python, to predict the presence of heart disease in a patient. This is a classification problem, with input features as a variety of parameters, and the target variable as a binary variable, predicting whether heart disease is present or not.
 
+
 <h2> Tools and technologies </h2>
+<img src="https://imageio.forbes.com/specials-images/dam/imageserve/966248982/960x0.jpg?format=jpg&width=960" />
 <ul>
   <li>Python
   <ul> 
