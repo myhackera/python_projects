@@ -1,6 +1,7 @@
 
 <h2>Heart Disease Prediction using Machine Learning</h2> 
 <h3> Introduction </h3>
+<img src = "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/ts/20210118115944/ri/673/picture/2021/1/shutterstock_1576424071.jpg"/>
 According to the World Health Organization, every year 12 million deaths
 occur worldwide due to Heart Disease. Heart disease is one of the biggest causes of
 morbidity and mortality among the population of the world. Prediction of
